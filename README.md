@@ -29,6 +29,6 @@ Actualmente, estoy buscando **nuevas oportunidades** donde pueda aportar mis hab
 
 ## 📫 **Contacto**
 
-- 📧 [example@gmail.com](joaquin.paredes@live.cl)
+- 📧 [joaquin.paredes@live.cl](joaquin.paredes@live.cl)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joaquín-paredes-80554095)
 - 🌍 [Portafolio](https://example.com)
