@@ -1,10 +1,7 @@
 # Hola 👋, soy Joaquín Paredes Reyes 
 
-Soy Ingeniero Civil Industrial titulado de la Universidad Austral de Chile, con experiencia en formulación y evaluación de proyectos de inversión, administración de flota de vehículos comerciales, mejora continua, optimización de procesos, marketing digital, gestión ágil de proyectos y gestión estratégica. Conocimientos básicos en ERP Softland, programas de análisis visual de datos (Power BI y Tableau) y en lenguajes de programación PHP, JavaScript y Python. Mi enfoque está en la calidad y mejora continua de procesos, buscando siempre la eficiencia y sostenibilidad. Estoy en proceso de convertirme en Desarrolador Full Stack
+Soy Ingeniero Civil Industrial titulado de la Universidad Austral de Chile, con experiencia en formulación y evaluación de proyectos de inversión, administración de flota de vehículos comerciales, mejora continua, optimización de procesos, marketing digital, gestión ágil de proyectos y gestión estratégica. Conocimientos básicos en ERP Softland, programas de análisis visual de datos (Power BI y Tableau) y en lenguajes de programación como por ejemplo PHP, JavaScript y Python. Mi enfoque está en la calidad y mejora continua de procesos, buscando siempre la eficiencia y sostenibilidad. Estoy en proceso de convertirme en Desarrolador Full Stack con experiencia en Python. Me gustaría especializarme en construir aplicaciones web escalabres y soluciones innovadoras.
 
-**Ejemplo de resumen de Linkedin:**
-
-Soy un **[tu rol profesional, ejemplo: Desarrollador Full Stack | Especialista en Backend | Frontend Developer]** con experiencia en [tecnologías principales, ejemplo: React, Python, Node.js]. Me especializo en [tu enfoque principal, ejemplo: construir aplicaciones web escalables y soluciones innovadoras].
 
 Actualmente, estoy buscando **nuevas oportunidades** donde pueda aportar mis habilidades y crecer profesionalmente.
 
@@ -19,7 +16,7 @@ Actualmente, estoy buscando **nuevas oportunidades** donde pueda aportar mis hab
 
 ### 🔨 Desarrollo Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 
 ### 🔧 Bases de Datos
 
